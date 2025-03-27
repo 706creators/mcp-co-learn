@@ -10,6 +10,7 @@
 
 </div>
 
+<div align="left">
 ## 共学前置
 
 参与这个共学需要知道
@@ -42,3 +43,4 @@
 ## 共学 QA
 
 [discussions](https://github.com/orgs/CreatorsDAO/discussions/categories/q-a)
+</div>
