@@ -60,4 +60,5 @@
 ## Links
 
 [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/)
+
 [sui ai agent learning](https://github.com/706creators/sui-ai-gent-learning)
