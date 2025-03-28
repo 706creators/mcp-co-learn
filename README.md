@@ -1,13 +1,14 @@
+
 <div align="center">
   <h1> MCP 开发共学 </h1>
-
-   <p>学习目标：通过此次共学，学习MCP Agent 的运行架构、原理。了解如何构建兼容MCP协议的server、client，完成一个可以交互并解决自己实际问题的AI Agent。</p>
-
- <p>
+   <p>
+      学习目标：通过此次共学，学习MCP Agent 的运行架构、原理。了解如何构建兼容MCP协议的server、client，完成一个可以交互并解决自己实际问题的AI Agent。
+   </p>
+   <p>
     <a href="https://github.com/CreatorsDAO"><img src="https://badgen.net/badge/icon/github?icon=github&label" alt="GitHub" /></a>
     <a href="https://twitter.com/Labs706"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Twitter" /></a>
     <img src="./image.png" alt="GitHub" style="width: 90%;" />
-  </p
+  </p>
 
 </div>
 
